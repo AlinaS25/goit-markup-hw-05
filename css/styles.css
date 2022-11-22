@@ -288,6 +288,22 @@ button {
   padding: 0 15px;
   list-style: none;
 }
+
+.images-wrapper{
+  position: relative;
+  bottom: 0;
+  background-color: rgba(47, 48, 58, 0.8);
+  overflow: hidden;
+  
+}
+.label-text{
+  font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+text-align: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
 .sec-four {
   background-color: var(--secondary-white-color);
   padding-top: 94px;
